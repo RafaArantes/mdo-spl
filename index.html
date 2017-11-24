@@ -355,13 +355,6 @@ $(document).ready(function() {
 		$('#advfrm button').html('Processing').attr('disabled',true);
         return false;
     });
-
-	$('.headernav a').click(function() {
-		var pos = $(this).attr('data-section');
-		$('body').animate({scrollTop:$(pos).offset().top},400);
-		$('html').animate({scrollTop:$(pos).offset().top},400);
-        return false;
-    });
 });
 </script>
 </body>
