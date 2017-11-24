@@ -1,0 +1,352 @@
+Uri: http://avazulife.com/
+File Name: c:\Downloaded Web Sites\avazulife.com\index.html
+Content Type: text/html
+
+Uri: http://avazulife.com/favicon.ico
+File Name: c:\Downloaded Web Sites\avazulife.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://avazulife.com/css/proximanova.css
+File Name: c:\Downloaded Web Sites\avazulife.com\css\proximanova.css
+Content Type: text/css
+
+Uri: http://avazulife.com/css/style.css
+File Name: c:\Downloaded Web Sites\avazulife.com\css\style.css
+Content Type: text/css
+
+Uri: http://avazulife.com/css/media.css
+File Name: c:\Downloaded Web Sites\avazulife.com\css\media.css
+Content Type: text/css
+
+Uri: http://avazulife.com/css/icons.css
+File Name: c:\Downloaded Web Sites\avazulife.com\css\icons.css
+Content Type: text/css
+
+Uri: http://avazulife.com/css/owl.carousel.min.css
+File Name: c:\Downloaded Web Sites\avazulife.com\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://avazulife.com/css/owl.theme.default.min.css
+File Name: c:\Downloaded Web Sites\avazulife.com\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://avazulife.com/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\avazulife.com\css\magnific-popup.css
+Content Type: text/css
+
+Uri: http://avazulife.com/images/avazu-life-logo.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\avazu-life-logo.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/we-slide-1.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\we-slide-1.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/pro-1.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\pro-1.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/pro-bg-1.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\pro-bg-1.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/pro-2.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\pro-2.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/pro-bg-2.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\pro-bg-2.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/pro-3.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\pro-3.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/pro-bg-3.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\pro-bg-3.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/certi.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\certi.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cert-1.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cert-1.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cert-2.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cert-2.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cert-3.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cert-3.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cert-4.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cert-4.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cert-5.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cert-5.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cp-1.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cp-1.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cp-2.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cp-2.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cp-3.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cp-3.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cp-4.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cp-4.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cp-5.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cp-5.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/cp-6.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\cp-6.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/footer-logo.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\footer-logo.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/foot-about.jpg
+File Name: c:\Downloaded Web Sites\avazulife.com\images\foot-about.jpg
+Content Type: image/jpeg
+
+Uri: http://avazulife.com/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\avazulife.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://avazulife.com/js/orientation-fix.js
+File Name: c:\Downloaded Web Sites\avazulife.com\js\orientation-fix.js
+Content Type: application/javascript
+
+Uri: http://avazulife.com/js/placeholder.js
+File Name: c:\Downloaded Web Sites\avazulife.com\js\placeholder.js
+Content Type: application/javascript
+
+Uri: http://avazulife.com/js/owl.carousel.min.js
+File Name: c:\Downloaded Web Sites\avazulife.com\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://avazulife.com/js/jquery.magnific-popup.js
+File Name: c:\Downloaded Web Sites\avazulife.com\js\jquery.magnific-popup.js
+Content Type: application/javascript
+
+Uri: http://avazulife.com/js/animDots.js
+File Name: c:\Downloaded Web Sites\avazulife.com\js\animDots.js
+Content Type: application/javascript
+
+Uri: http://avazulife.com/fonts/ProximaNova-Regular.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-Regular.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Regular.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-Regular.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Regular.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-Regular.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Regular.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-RegularItalic.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-RegularItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-RegularItalic.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-RegularItalic.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-RegularItalic.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-RegularItalic.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-RegularItalic.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-RegularItalic.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-Black.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-Black.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Black.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-Black.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Black.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-Black.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Black.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-Bold.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-Bold.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Bold.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-Bold.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Bold.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-Bold.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Bold.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-BoldIt.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-BoldIt.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-BoldIt.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-BoldIt.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-BoldIt.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-BoldIt.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-BoldIt.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-BoldIt.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-Extrabold.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Extrabold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-Extrabold.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Extrabold.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-Extrabold.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Extrabold.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-Extrabold.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Extrabold.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-Light.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-Light.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Light.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-Light.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Light.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-Light.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Light.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-LightItalic.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-LightItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-LightItalic.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-LightItalic.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-LightItalic.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-LightItalic.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-LightItalic.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-LightItalic.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-Semibold.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-Semibold.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Semibold.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-Semibold.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Semibold.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-Semibold.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-Semibold.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/fonts/ProximaNova-SemiboldItalic.eot
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-SemiboldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/ProximaNova-SemiboldItalic.woff
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-SemiboldItalic.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/ProximaNova-SemiboldItalic.ttf
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-SemiboldItalic.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/ProximaNova-SemiboldItalic.svg
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\ProximaNova-SemiboldItalic.svg
+Content Type: image/svg+xml
+
+Uri: http://avazulife.com/images/hero-bg.jpg
+File Name: c:\Downloaded Web Sites\avazulife.com\images\hero-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://avazulife.com/images/counter-bg.jpg
+File Name: c:\Downloaded Web Sites\avazulife.com\images\counter-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://avazulife.com/images/advertise-bg.jpg
+File Name: c:\Downloaded Web Sites\avazulife.com\images\advertise-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://avazulife.com/images/car-arrow-left.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\car-arrow-left.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/car-arrow-left-hover.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\car-arrow-left-hover.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/car-arrow-right.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\car-arrow-right.png
+Content Type: image/png
+
+Uri: http://avazulife.com/images/car-arrow-right-hover.png
+File Name: c:\Downloaded Web Sites\avazulife.com\images\car-arrow-right-hover.png
+Content Type: image/png
+
+Uri: http://avazulife.com/fonts/icomoon.eot?x7zhgl
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://avazulife.com/fonts/icomoon.ttf?x7zhgl
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: http://avazulife.com/fonts/icomoon.woff?x7zhgl
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: http://avazulife.com/fonts/icomoon.svg?x7zhgl
+File Name: c:\Downloaded Web Sites\avazulife.com\fonts\icomoon.svg
+Content Type: image/svg+xml
+

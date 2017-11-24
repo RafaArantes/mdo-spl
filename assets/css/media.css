@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+img {max-width:100%;}
+
+/*@media screen and (-webkit-min-device-pixel-ratio:0) {
+    select {
+        -webkit-appearance: menulist-button !important;
+        line-height:36px !important;
+    }
+}*/
+
+@media screen and (min-width:768px) {
+	.adv-thumb {margin-right:2%;}
+	.adv-thumb:nth-child(3n) {margin-right:0;}
+	.adv-thumb:nth-child(3n+4) {clear:both;}
+	.product-thumb:nth-child(even) .imgs {width:32%; float:right; position:relative;}
+.product-thumb:nth-child(even) .p-cont {float:left; width:65%;}
+.product-thumb:nth-child(even) .imgs .bg {position:absolute; left:-50%; top:-18%; z-index:9;}
+}
+@media screen and (min-width:981px) {
+	.certifbox {position:absolute;}
+.certifbox .icon {display:none;}
+	.certifbox:nth-child(2) {
+		top:-7%;
+		left:42%;
+	}
+	.certifbox:nth-child(3) {
+		top:33%;
+		right:10%;
+		text-align:left;
+	}
+	.certifbox:nth-child(4) {
+		top:80%;
+		right:15%;
+		text-align:left;
+	}
+	.certifbox:nth-child(5) {
+		top:80%;
+		left:12%;
+		text-align:right;
+	}
+	.certifbox:nth-child(6) {
+		top:33%;
+		left:10%;
+		text-align:right;
+	}
+}
+@media screen and (max-width:1400px) {
+	.container {padding:60px 0;}
+	.section-title {font-size:46px;}
+	.sub-heading {font-size:18px;}
+	.hero-section {padding:120px 0;}
+	.hero-section h2 {font-size:80px; line-height:70px;}
+	.headerbtn {margin-top:80px;}
+	.hero-section h4 {font-size:26px;}
+	.whatwedo em {font-size:20px; line-height:28px;}
+	.countdiv h4 {font-size:80px;}
+	.countdiv strong {font-size:26px;}
+	.countdiv p {font-size:16px;}
+	.newsthumb h4 {font-size:17px;}
+}
+@media screen and (max-width:1100px) {
+	.container {padding:60px 10px;}
+	.section-title {font-size:38px;}
+	.sub-heading {font-size:16px;}
+	.btn {font-size:18px; line-height:48px; padding:0 25px;}
+	.headernav a {font-size:16px; padding:0 20px 0 0;}
+	.publisher-thumbs {margin:5px;}
+	.hero-section h2 {font-size:66px; line-height:66px;}
+	.hero-section h4 {font-size:22px;}
+	.headerbtn {margin-top:40px;}
+	.we-tabselector li {font-size:14px; line-height:35px; padding:0 10px;}
+	.we-slide .c-coont .btn {margin-top:20px; font-size:14px; line-height:40px; padding:0 15px;}
+	.whatwedo em {font-size:18px; line-height:22px; margin:20px auto 0;}
+	.product-thumb .imgs {width:25%;}
+	.product-thumb .p-cont {width:72%;}
+	.certifbox:nth-child(3) {right:5%;}
+	.certifbox:nth-child(4) {right:10%;}
+	.certifbox:nth-child(5) {left:5%;}
+	.certifbox:nth-child(6) {left:3%;}
+}
+@media screen and (max-width:980px) {
+	.certif > img {display:none;}
+	.certifbox {float:none; display:inline-block; margin:10px 20px;}
+}
+@media screen and (max-width:767px) {
+	.container {padding:40px 10px;}
+	.btn {font-size:16px; line-height:40px; padding:0 20px;}
+	.section-title {font-size:32px;}
+	.menu-icon {display:block;}
+	.headernav {position:absolute; right:10px; top:105%; background:#000; border:1px solid #333; border-radius:4px; display:none; z-index:800;}
+	.headernav a {display:block; font-size:20px; line-height:32px; border-bottom:1px solid #d7063a; padding:0 20px 0 10px; box-sizing:content-box; white-space:nowrap;}
+	.headernav a:hover {background:#d7063a; color:#fff;}
+	.headernav a:last-child {border-bottom:none; padding:0 0 0 10px;}
+	.headernav a.loginbtn {display:block; border-radius:0;}
+	.loginbox {top:100%; right:150px; z-index:3000;}
+	.adv-thumb {margin:1%; width:48%;}
+	.adv-thumb:nth-child(odd) {clear:both;}
+	.hero-section h2 {font-size:48px; line-height:1;}
+	.we-slide .cimg {float:none; width:100%; clear:both;}
+	.we-slide .c-coont {float:none; width:100%; clear:both;}
+	.countdiv {width:50%; margin:10px auto;}
+	.countdiv h4 {font-size:66px;}
+	.countdiv strong {font-size:18px;}
+	.countdiv p {font-size:14px;}
+	.product-thumb .imgs {float:none; margin:10px auto; display:block;}
+	.product-thumb .p-cont {width:100%; float:none; float:none; clear:both; text-align:center;}
+	.footbox, .ftt {float:none; clear:both; display:block; margin:10px auto; width:100%; max-width:480px; padding:0 10px; line-height:18px;}
+	.foot-about p img {float:none; margin:0 auto 5px; display:block;}
+	.ftt {text-align:center; line-height:20px;}
+	.loginbox {position:fixed; top:50%; left:50%; right:auto; transform: translate(-50%, -50%); z-index:1000;}
+}
+@media screen and (max-width:480px) {
+	.container {padding:20px 10px;}
+	.section-title {font-size:24px;}
+	.hero-section h2 {font-size:36px;}
+	.headerbtn .btn {clear:both; margin:0 auto 5px; display:block; max-width:250px;}
+	.countdiv h4 {font-size:56px;}
+	.countdiv strong {font-size:16px;}
+	.countdiv p {font-size:12px;}
+	.we-slide .c-coont h5 {font-size:18px; margin-bottom:10px;}
+	.we-slide .c-coont p {font-size:15px; line-height:18px;}
+	.whatwedo em {font-size:16px; line-height:20px;}
+	.product-thumb {margin:40px auto;}
+	.product-thumb .p-cont h5 {font-size:24px; line-height:24px; margin-bottom:15px; margin-top:15px;}
+	.product-thumb .p-cont h5 span {font-size:18px;}
+	.product-thumb .p-cont p {font-size:14px; line-height:18px;}
+	.adv-thumb {width:95%; float:none; margin:10px auto;}
+	.publisher-thumbs {padding:20px;}
+	.publisher-thumbs .icon span {font-size:75px;}
+	.publisher-thumbs .cont h6 {font-size:16px;}
+	.publisher-thumbs .cont p {font-size:14px; line-height:16px;}
+	.adv-thumb .icon {height:80px; width:80px;}
+	.adv-thumb .icon span {line-height:80px;}
+	.adv-thumb h5 {font-size:20px; padding:5px;}
+	.adv-thumb p {font-size:12px; line-height:16px;}
+}
